@@ -1,5 +1,6 @@
-Here's the translation:
-
+---
+markmap:
+  colorFreezeLevel: 2
 ---
 
 # Identifying Emerging Data-Based Technologies
