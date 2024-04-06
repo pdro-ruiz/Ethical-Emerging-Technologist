@@ -32,8 +32,10 @@ markmap:
    - **Ejemplo**: Adaptar la acción a la situación específica basada en el carácter virtuoso.
 
 ### **Comparativa y Reflexión:**
-- **Utilitarismo vs. Deontología**: El utilitarismo se centra en las consecuencias y el bienestar general, mientras que la deontología se enfoca en seguir principios morales universales, independientemente de los resultados.
-- **Ética de la Virtud**: Proporciona un enfoque más flexible, centrado en el desarrollo del carácter y la adaptación moral a situaciones específicas.
+- **Utilitarismo vs. Deontología**: El utilitarismo se centra en las consecuencias y el bienestar general, 
+  mientras que la deontología se enfoca en seguir principios morales universales, independientemente de los resultados.
+- **Ética de la Virtud**: Proporciona un enfoque más flexible, centrado en el desarrollo del carácter
+   y la adaptación moral a situaciones específicas.
 
 ### **Importancia en Tecnologías Basadas en Datos**:
 - **Utilitarismo**: Puede justificar el uso de datos para el bien mayor, pero plantea riesgos de sobrepasar derechos individuales.
@@ -489,4 +491,5 @@ Este resumen proporciona una visión concisa de los 10 principios para una IA é
 - A medida que la IA avanza hacia la inteligencia general artificial (AGI), surgen preguntas sobre la autonomía de la IA y su posible consideración moral.
 
 #### Reflexión
-- La discusión sobre la promoción de valores humanos en la IA invita a reflexionar sobre cómo la tecnología puede y debe incorporar principios éticos que reflejen y respeten la dignidad y los derechos humanos, anticipando el impacto futuro en la sociedad y las posibles entidades de IA con autonomía.
+- La discusión sobre la promoción de valores humanos en la IA invita a reflexionar sobre cómo la tecnología puede y debe incorporar principios éticos que reflejen y respeten la dignidad y los derechos humanos, 
+anticipando el impacto futuro en la sociedad y las posibles entidades de IA con autonomía.
