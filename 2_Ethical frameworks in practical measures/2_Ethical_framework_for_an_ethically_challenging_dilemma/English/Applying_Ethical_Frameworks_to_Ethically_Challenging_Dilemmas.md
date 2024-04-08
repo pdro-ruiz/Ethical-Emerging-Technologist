@@ -42,7 +42,7 @@
    - **Advantages:** Promotes preparedness and awareness of AI failures and safe decisions.
    - **Challenges:** Generic application that could be tailored at the decider's convenience.
 
-#### Conclusion
+#### Notes
 - **Importance of Guiding Principles:** They help define and guide ethical practices in complex situations.
 - **Relevance of Ethical Frameworks:** Both frameworks provide useful perspectives but differ in application and emphasis on responsibility and transparency.
 
@@ -80,11 +80,6 @@
 - **TD:** Focuses on human rights and non-discrimination, offering an ethical framework to balance public health needs
    with the protection of privacy and individual rights.
 
-#### Conclusion
-- Both frameworks offer valuable perspectives for addressing the use of AI in emergency situations, 
-  highlighting the importance of maintaining a balance between public safety and the protection of privacy and human rights. 
-  The choice of framework depends on the specific priorities and context of the situation.
-
 
 
 ### AI in Medicine - Bias vs. Humans
@@ -116,7 +111,6 @@
      - Questions on the sufficiency of educational formation and informed consent.
 
 #### Comparison and Conclusion
-
 - **MDR vs. Beijing Principles:** Both frameworks offer useful perspectives for addressing the ethical dilemma, focusing attention on prudence, autonomy, responsibility, and informed consent as foundations for the ethical use of AI in medicine.
 - **Effectiveness:** MDR provides a holistic approach encompassing trust and organizational values, while the Beijing Principles focus on consent and preparation of the patient and medical professional.
 - **Implementation:** Both frameworks face challenges in practical application, needing clarity and regulatory support to ensure their effectiveness.
@@ -190,7 +184,7 @@
 - **Impact on Product Development:** Both frameworks seek to guide the creation of products that respect user autonomy
    and promote their well-being, though from different levels of detail and geographic applicability.
 
-#### Conclusion
+#### Notes
 
 - **Ethical Balance:** It's crucial to balance technological innovation with the protection of vulnerable users, 
   ensuring that persuasive technology does not compromise the well-being or autonomy of children.
@@ -215,9 +209,7 @@
      - Privacy with clear boundaries, yet allowing interventions in case of vital risk.
    - **Advantages:**
      - Explicit consideration of affective computing and well-being alongside privacy.
-   - **Ch
-
-allenges:**
+   - **Challenges:**
      - High-level recommendations subject to interpretation, potential for evading responsibilities.
 
 2. **Asilomar AI Principles**
@@ -236,7 +228,7 @@ allenges:**
   - EAD provides a more comprehensive approach by including affective computing, but can be vague in its application.
   - Asilomar emphasizes safety and transparency, essential in the context of mental health, but lacks operational specificity.
 
-#### Conclusion
+#### Notes
 
 - **Ethical Implication:** Both frameworks suggest the importance of maintaining an ethical balance between patient confidentiality
   and necessary intervention in emergency cases.
@@ -282,7 +274,7 @@ allenges:**
 - **EAD vs. Ethical Guidelines:** EAD provides a broad framework for empowering autonomy, but lacks a specific focus on moderation. 
   Ethical Guidelines offer a risk-based framework with an emphasis on collective well-being, but its application may be regionally limited.
 
-#### Conclusion
+#### Notes
 
 - **Combination of Frameworks:** Integrating multiple frameworks may offer a more effective balance between individual benefits and social responsibility.
 - **Implementation Challenge:** The lack of specificity in content moderation and regional variability requires 
@@ -320,7 +312,7 @@ allenges:**
   - **BAIP:** Focused on identifying risks and promoting openness for oversight. Lacks specificity.
   - **OECD:** Emphasizes the need for human control and is well-aligned with legal requirements, but is abstract.
 
-#### Conclusions
+#### Notes
 - The **emancipation of AI** from human oversight presents unique challenges in terms of control risks and ensuring human well-being.
 - **BAIP** provides a framework for public oversight, while **OECD** advocates for maintaining human controls.
 - Both approaches offer advantages in terms of risk awareness and promotion of openness, 
@@ -364,7 +356,7 @@ akes, for harassment.
   - **TD:** Focus on human rights protection and legal coherence.
   - **AAIP:** Approach on defining and balancing ethically research objectives.
 
-#### Conclusions
+#### Notes
 - Both **TD** and **AAIP** offer frameworks for protecting against AI-driven harassment.
 - **TD** provides a foundation in human rights for broad application.
 - **AAIP** highlights the importance of choice and balance in research.

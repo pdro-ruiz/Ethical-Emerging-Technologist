@@ -1,8 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 2
----
-
 # Teorías éticas comunes
 
 ## Teorías Éticas Comunes en Tecnología
@@ -29,12 +24,6 @@ markmap:
 - **Falta de Comprensión Ética:** Caso del interruptor de encendido de General Motors, causando muertes y lesiones.
 - **Consecuencias:** Acuerdo de 900 millones de dólares, impacto en la confianza del consumidor y la imagen de la empresa.
 - **Lección:** La consideración de la ética podría mitigar problemas legales y financieros.
-
-### Conclusiones
-
-- Este módulo enseña a considerar activamente la ética en tecnología, enfocándose en cómo las teorías éticas 
-  pueden aplicarse para evitar impactos negativos en el mundo real. La preparación y comprensión de estas teorías 
-  es crucial para el desarrollo de soluciones tecnológicas responsables y confiables.
 
 
 
@@ -70,7 +59,7 @@ markmap:
 - Múltiples disciplinas se abordarán más adelante, enfatizando cómo la ética normativa y aplicada se implementa 
   en diversas áreas para guiar decisiones éticas en el mundo real.
 
-#### Notas Clave
+#### Notas
 
 - La ética es fundamental en la toma de decisiones diaria y en la interacción social.
 - La ética normativa establece un marco de lo que es moralmente correcto o incorrecto.
@@ -103,7 +92,7 @@ markmap:
 - **Postura Organizacional:** Las organizaciones deben definir y comunicar claramente su ética, 
   y estar preparadas para defenderla ante las partes interesadas.
 
-#### Notas Clave
+#### Notas
 
 - El relativismo moral refleja la diversidad cultural y la evolución temporal de las normas morales, destacando la dificultad de aplicar un juicio moral universal.
 - El absolutismo moral proporciona una base sólida para el juicio ético, pero puede carecer de flexibilidad y sensibilidad cultural.
@@ -139,7 +128,7 @@ markmap:
 - **Pleasure:** Considerado no intrínseco ya que puede derivarse del sufrimiento de otros.
 - **Defensa Propia:** Incluso matar en defensa propia se considera incorrecto, reiterando que las acciones se juzgan por motivos, no por consecuencias.
 
-#### Notas Clave
+#### Notas
 
 - La deontología proporciona un marco ético que valora la intención y la adherencia a normas universales sobre los resultados de las acciones.
 - Este enfoque enfatiza la importancia de actuar con buena voluntad y respetar los deberes morales, independientemente de las consecuencias que puedan derivarse.
@@ -182,10 +171,6 @@ markmap:
 - **Crítica Principal:** Dilemas éticos, como el de mentir a un asesino, donde seguir la ley universal parece ir en contra del bien.
 - **Respuesta de Kant:** Incluso en tales casos, mentir es moralmente inaceptable según el imperativo categórico.
 
-#### Conclusión
-
-- El imperativo categórico es central en la ética deontológica de Kant, promoviendo la adherencia a principios morales universales basados en la razón. 
-  Aunque es un marco moral respetado, enfrenta críticas por su rigidez en situaciones éticas complejas.
 
 
 ### Universalizabilidad
@@ -217,11 +202,6 @@ markmap:
 - **Escenarios de Desafío:** Cómo la ética organizacional se ve retada por la IA en contextos de armamento y manejo de desinformación.
 - **Reflexión sobre la aplicabilidad universal de códigos éticos en situaciones complejas.**
 
-#### Conclusiones
-
-- La universalizabilidad es un principio ético clave que desempeña un papel importante en la evaluación de acciones y decisiones, especialmente en el contexto de la IA.
-- Los dilemas éticos en tecnologías emergentes como la IA plantean preguntas significativas sobre cómo aplicar principios éticos de manera universal.
-- Es vital para las organizaciones contemplar cómo sus códigos éticos se enfrentan y adaptan a los desafíos presentados por situaciones complejas en tecnología.
 
 
 
@@ -269,7 +249,7 @@ markmap:
 - **Jerarquía de Placeres de Mill:** Valora ciertos placeres por encima de otros, sujeta a juicio.
 - **Dilema de Vehículo Autónomo:** Ejemplo de la complejidad en determinar qué acción tiene mayor utilidad.
 
-#### Conclusiones
+#### Notas
 
 - **Contraste con la Deontología:** Enfoque en las consecuencias vs. reglas morales.
 - **Importancia de Evaluación de Resultados:** La moralidad se basa en maximizar el bienestar y minimizar el daño.
@@ -464,6 +444,10 @@ markmap:
 - **Cognición Moral:** Estudio de cómo el cerebro procesa la información para emitir juicios morales, incluyendo estudios genéticos y mapeo cerebral.
 - **Importancia:** Comprender por qué las personas toman las decisiones morales que toman revela cómo construimos y aplicamos ideas de moralidad.
 
+
+
+
+
 ## Ética aplicada
 
 ### Ética Aplicada
@@ -489,7 +473,7 @@ markmap:
 - **Investigación:** Algunos proyectos de investigación requieren aprobación ética, especialmente aquellos que involucran al público.
 - **Tecnología/Emergentes:** Las tecnologías emergentes presentan desafíos éticos únicos, lo que requiere un enfoque especializado en ética aplicada.
 
-#### Conclusiones
+#### Notas
 - **Implementación y Evaluación:** La ética aplicada se centra en la implementación y evaluación de juicios morales en el mundo real.
 - **Especialistas en Ética:** Los profesionales éticos deben considerar cuidadosamente cómo sus decisiones afectan a la práctica y adaptar sus enfoques a los contextos específicos de su campo.
 
@@ -524,11 +508,6 @@ markmap:
 - **Impacto Social y Medioambiental:** La responsabilidad de las empresas de beneficiar a la sociedad vs. potenciales perjuicios a sus propios intereses.
 - **Dilemas Éticos en Negocios:** Balancear responsabilidades éticas con objetivos financieros y reputacionales.
 
-#### Conclusión
-- Las empresas tienen deberes éticos amplios, incluyendo la transparencia, 
-  justicia en el trato a empleados y responsabilidad social y ambiental. La ética empresarial abarca 
-  desde la toma de decisiones interna hasta el impacto externo en la sociedad y el medio ambiente, 
-  resaltando la importancia de un enfoque ético integral en el ámbito empresarial.
 
 
 
@@ -551,9 +530,6 @@ markmap:
 - Proporcionan directrices éticas y en algunos casos, la certificación profesional requiere demostrar el cumplimiento de estas normas.
 - Ejemplo: Sociedad de Periodismo Profesional
   - Principios de integridad, búsqueda de la verdad, minimizar el daño, actuar con independencia, responsabilidad y transparencia.
-
-#### Conclusión
-- La ética profesional es un componente crucial de la ética aplicada que influye en casi todos los campos de trabajo, destacando la importancia de actuar con integridad y responsabilidad dentro de cada profesión específica.
 
 
 
@@ -585,11 +561,6 @@ markmap:
 - La búsqueda de soluciones éticas en ingeniería implica minimizar daños y tomar decisiones responsables.
 - No siempre existe una solución "más ética" clara, lo que subraya la complejidad de estas decisiones.
 
-#### Conclusión
-- La ética de la ingeniería es un pilar crucial para garantizar que las innovaciones y construcciones
-   no solo cumplan con objetivos técnicos y económicos, sino que también respeten y protejan la vida y la seguridad de las personas y el medio ambiente. 
-   Los ingenieros, guiados por códigos éticos, deben navegar constantemente por dilemas éticos 
-   para tomar decisiones responsables que reflejen los valores de la sociedad.
 
 
 ### Ética Social
@@ -660,10 +631,6 @@ markmap:
   - La bioética guía a profesionales y organizaciones en la toma de decisiones responsables y éticas frente a avances tecnológicos y médicos.
   - Abarca desde el trato individual de pacientes hasta las políticas de salud pública que afectan a sociedades enteras.
 
-
-
-
-**
 
 
 ### Ética Medioambiental

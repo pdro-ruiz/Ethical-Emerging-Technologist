@@ -1,8 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 2
----
-
 # Cognitive Bias
 
 
@@ -139,12 +134,6 @@ Management:**
   - Dialogue with people from various perspectives.
   - Reflection on past judgments.
 
-#### Conclusion:
-- Cognitive biases are ubiquitous and affect all aspects of our lives, 
-  including professional and personal decisions. Being aware of these biases and adopting strategies 
-  to mitigate their impact is crucial for improving our decision-making and fostering a work environment 
-  and a society that are more inclusive and fair.
-
 
 
 
@@ -187,13 +176,6 @@ Management:**
 
 - Implement controls to balance the evaluation of confirmatory and contradictory evidence.
 
-#### Conclusions:
-
-- Confirmation bias is a pervasive psychological phenomenon that affects not only individual decision-making
-  but also social dialogue and technological development. Being aware of this bias 
-  and adopting active measures to counteract it can improve objectivity in information analysis 
-  and foster a more open and dialogic society.
-  This is the markdown format for the mind map on confirmation bias on the page 
 
 
 
@@ -227,10 +209,6 @@ Management:**
 - **Recognition of Limitations:** Accept that models and analyses may not be universally applicable over time.
 - **Human-in-the-Loop:** Integration of human oversight in machine learning to mitigate temporal biases.
 - **Diversification of Data:** Include data from multiple periods to understand and mitigate the impact of temporal bias.
-
-#### Conclusions:
-
-Temporal bias highlights the importance of considering how time affects the relevance and applicability of data. It is crucial for researchers and developers to recognize this bias when designing predictive models and interpreting data, to ensure that their conclusions and applications remain valid and relevant in the future.
 
 
 
@@ -303,11 +281,6 @@ Temporal bias highlights the importance of considering how time affects the rele
 - **Use of Moving Averages:** Smooths out fluctuations for more stable data.
 - **Observer Training:** Ensures clear rules and procedures for data collection.
 - **Data Quality:** Critical questions about data cleaning and preparation.
-
-#### Conclusion:
-- The quality and validity of collected data are crucial for obtaining reliable and meaningful results in data-based technologies. 
-  Awareness and mitigation of biases in data collection are essential steps to ensure the accuracy and 
-  representativeness of analyses and derived conclusions.
 
 
 

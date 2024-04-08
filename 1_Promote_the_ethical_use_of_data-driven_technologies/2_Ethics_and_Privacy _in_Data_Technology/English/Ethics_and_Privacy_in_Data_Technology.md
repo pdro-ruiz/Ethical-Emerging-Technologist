@@ -1,8 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 2
----
-
 # Ethics and Privacy in Data Technology
 
 ## Data Privacy and Protection of PII
@@ -102,12 +97,6 @@ markmap:
   - Transforming homes and vehicles into more public spaces.
   - Unilateral decisions by owners affect guests' privacy.
 
-### Conclusion
-
-- The proliferation of IoT devices and ambient intelligence systems poses serious challenges to personal privacy, 
-from data collection and handling to continuous tracking and surveillance. Being aware 
-and taking proactive measures to protect and secure our data in the context of this growing connectivity is vital.
-
 
 
 
@@ -149,15 +138,6 @@ and taking proactive measures to protect and secure our data in the context of t
 
 - **Reflection:** Changes in consent perception and its effect on personal autonomy and self-determination in personal data management.
 
-### Conclusion
-
-- Privacy
-
- protection through individual authorization emphasizes the importance of informed and voluntary consent, 
-promotes clear and accessible privacy policies, and suggests data management models that prioritize user control, 
-like opt-in systems and technological authorization tools.
-
-
 
 
 ## Privacy Protection through Data Management
@@ -193,12 +173,6 @@ like opt-in systems and technological authorization tools.
 - **Handling of Indirect Identifiers:** 
   - Pseudonymization: Remain, possibility of combining to identify.
   - Anonymization: Removed or altered, eliminating risk.
-
-### Conclusion
-
-- Privacy protection through data management involves using de-identification, 
-pseudonymization, and anonymization techniques to reduce or eliminate the risk of personal identification. 
-Choosing between these strategies depends on the desired level of privacy and the acceptable risk of reidentification.
 
 
 
@@ -253,10 +227,6 @@ Choosing between these strategies depends on the desired level of privacy and th
 - **Application:** Inspired the development of frameworks and regulations like the GDPR.
 - **Critiques and Acceptance:** Despite criticisms, it has been fundamental in guiding the incorporation of privacy into technologies and operations.
 
-### Conclusion
-
-- Privacy by Design is an integral philosophy emphasizing the importance of incorporating privacy at all stages of product and service development, 
-seeking innovative and effective solutions that ensure privacy protection without compromising functionality or security.
 
 
 
@@ -301,13 +271,6 @@ seeking innovative and effective solutions that ensure privacy protection withou
 
  Compromising Individuals:** Allows sharing aggregated data without risks.
 
-### Conclusion
-
-- Differential privacy is a robust solution to balance data utility 
-and privacy protection in statistical analyses, overcoming the limitations of methods 
-like encryption and anonymization through the strategic use of random noise in data.
-
-
 
 
 ## Types of Technological Contracts
@@ -344,11 +307,6 @@ like encryption and anonymization through the strategic use of random noise in d
 - **EULA:** Focused on the right to use software by end-users.
 - **Terms of Service:** Establishes the rules for using a service, with emphasis on the responsibilities and restrictions of the user.
 - **SLA:** Specifies expected service levels, rights, and obligations of both the provider and the client, with an emphasis on service quality and availability.
-
-### Conclusion
-
-- Each type of technological contract plays a crucial role in regulating the relationship between software/service providers and their users, 
-with each designed to cover different aspects of the technology transaction and use.
 
 
 
@@ -389,9 +347,3 @@ with each designed to cover different aspects of the technology transaction and 
 - **Automation:** Automatic execution based on fulfillment of coded conditions.
 - **Transparency:** Every transaction is verifiable by all network participants.
 - **Security:** Blockchain structure and consensus among nodes prevent unauthorized alterations.
-
-### Conclusion
-
-- Smart contracts represent an evolution in how legal agreements are established and executed, 
-leveraging blockchain technology to offer a more secure, transparent, and efficient solution than traditional methods. 
-Their self-executing nature and the elimination of intermediaries facilitate faster transactions and reduce the possibility of disputes.

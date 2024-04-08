@@ -1,8 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 2
----
-
 # Sesgo cognitivo
 
 
@@ -138,13 +133,6 @@ markmap:
   - Diálogo con personas de perspectivas variadas.
   - Reflexión sobre juicios pasados.
 
-#### Conclusión:
-- Los sesgos cognitivos son omnipresentes y afectan a todos los aspectos de nuestras vidas, 
-  incluyendo las decisiones profesionales y personales. Ser conscientes de estos sesgos y adoptar estrategias 
-  para mitigar su impacto es crucial para mejorar nuestra toma de decisiones y fomentar un ambiente de trabajo 
-  y una sociedad más inclusivos y justos.
-
-
 
 
 ### Sesgo de Confirmación
@@ -186,14 +174,6 @@ markmap:
 
 - Implementar controles para equilibrar la evaluación de evidencia confirmatoria y contradictoria.
 
-#### Conclusiones:
-
-- El sesgo de confirmación es un fenómeno psicológico omnipresente que afecta no solo la toma de decisiones individuales
-  sino también el diálogo social y el desarrollo tecnológico. Ser consciente de este sesgo 
-  y adoptar medidas activas para contrarrestarlo puede mejorar la objetividad en el análisis de información 
-  y fomentar una sociedad más abierta y dialogante.
-  Este es el formato markdown para el mapa mental sobre el sesgo de confirmación en la página 
-
 
 
 
@@ -226,10 +206,6 @@ markmap:
 - **Reconocimiento de Limitaciones:** Aceptar que los modelos y análisis pueden no ser universalmente aplicables en el tiempo.
 - **Human-in-the-Loop:** Integración de la supervisión humana en el aprendizaje automático para mitigar sesgos temporales.
 - **Diversificación de Datos:** Incluir datos de múltiples periodos para entender y mitigar el impacto del sesgo temporal.
-
-#### Conclusiones:
-
-El sesgo temporal resalta la importancia de considerar cómo el tiempo afecta la relevancia y aplicabilidad de los datos. Es fundamental para investigadores y desarrolladores reconocer este sesgo al diseñar modelos predictivos y al interpretar datos, para asegurar que sus conclusiones y aplicaciones permanezcan válidas y relevantes en el futuro.
 
 
 
@@ -300,11 +276,6 @@ El sesgo temporal resalta la importancia de considerar cómo el tiempo afecta la
 - **Uso de Medias Móviles:** Suaviza las fluctuaciones para datos más estables.
 - **Formación de Observadores:** Asegura reglas y procedimientos claros para la recopilación de datos.
 - **Calidad de los Datos:** Preguntas críticas sobre la limpieza y preparación de datos.
-
-#### Conclusión:
-- La calidad y validez de los datos recogidos son cruciales para obtener resultados fiables y significativos en tecnologías basadas en datos. 
-  La conciencia y la mitigación de los sesgos en la recopilación de datos son pasos esenciales para asegurar la precisión y 
-  la representatividad de los análisis y conclusiones derivadas.
 
 
 

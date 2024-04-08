@@ -42,7 +42,7 @@
    - **Ventajas:** Fomenta la preparación y conciencia sobre fallos de IA y decisiones seguras.
    - **Desafíos:** Aplicación genérica que podría adaptarse a conveniencia del decisor.
 
-#### Conclusión
+#### Notas
 - **Importancia de Principios Rectores:** Ayudan a definir y guiar prácticas éticas en situaciones complejas.
 - **Relevancia de Marcos Éticos:** Ambos marcos proporcionan perspectivas útiles pero difieren en aplicación y énfasis en la responsabilidad y transparencia.
 
@@ -80,10 +80,6 @@
 - **DT:** Centra en los derechos humanos y la no discriminación, ofreciendo un marco ético para equilibrar las necesidades de salud pública
    con la protección de la privacidad y los derechos individuales.
 
-#### Conclusión
-- Ambos marcos ofrecen perspectivas valiosas para abordar el uso de la IA en situaciones de emergencia, 
-  resaltando la importancia de mantener un equilibrio entre la seguridad pública y la protección de la privacidad y los derechos humanos. 
-  La elección del marco adecuado depende de las prioridades específicas y el contexto de la situación.
 
 
 
@@ -188,7 +184,7 @@
 - **Impacto en el Desarrollo de Productos:** Ambos marcos buscan guiar la creación de productos que respeten la autonomía de los usuarios
    y promuevan su bienestar, aunque desde diferentes niveles de detalle y aplicabilidad geográfica.
 
-#### Conclusión
+#### Notas
 
 - **Equilibrio Ético:** Es crucial equilibrar la innovación tecnológica con la protección de los usuarios vulnerables, 
   asegurando que la tecnología persuasiva no comprometa el bienestar ni la autonomía de los niños.
@@ -278,7 +274,7 @@
 - **EAD vs. Directrices Éticas:** EAD proporciona un marco amplio para potenciar la autonomía, pero carece de enfoque específico en moderación. 
   Las Directrices Éticas ofrecen un marco basado en riesgos con énfasis en el bienestar colectivo, pero su aplicación puede ser regionalmente limitada.
 
-#### Conclusión
+#### Notas
 
 - **Combinación de Marcos:** Integrar múltiples marcos puede ofrecer un equilibrio más efectivo entre beneficios individuales y responsabilidad social.
 - **Desafío de Implementación:** La falta de especificidad en la moderación de contenidos y la variabilidad regional requiere 
@@ -316,7 +312,7 @@
   - **BAIP:** Centrados en identificar riesgos y promover la apertura para la supervisión. Carecen de especificidad.
   - **OCDE:** Enfatizan la necesidad de control humano y están bien alineados con requisitos legales, pero son abstractos.
 
-#### Conclusiones
+#### Notas
 - La **emancipación de la IA** de la supervisión humana presenta desafíos únicos en términos de riesgos de control y la garantía del bienestar humano.
 - **BAIP** proporciona un marco para la supervisión pública, mientras que **OCDE** aboga por mantener los controles humanos.
 - Ambos enfoques presentan ventajas en términos de concienciación sobre riesgos y promoción de la apertura, 
@@ -358,7 +354,7 @@
   - **TD:** Foco en protección de derechos humanos y coherencia jurídica.
   - **AAIP:** Enfoque en definir y equilibrar objetivos de investigación éticamente.
 
-#### Conclusiones
+#### Notas
 - Tanto **TD** como **AAIP** ofrecen marcos para proteger contra el acoso por IA.
 - **TD** proporciona un fundamento en derechos humanos para una aplicación amplia.
 - **AAIP** destaca la importancia de la elección y el equilibrio en la investigación.

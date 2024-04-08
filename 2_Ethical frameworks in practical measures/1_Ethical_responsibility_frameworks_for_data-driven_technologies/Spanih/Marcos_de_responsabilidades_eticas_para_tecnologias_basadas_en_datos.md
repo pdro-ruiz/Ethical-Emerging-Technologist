@@ -1,8 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 3
----
-
 # Marcos de responsabilidades eticas para tecnologias basadas en datos
 
 ## Convertir los principios eticos en accion
@@ -77,7 +72,7 @@ markmap:
 - Considerar qué marco ético se adapta mejor a las necesidades personales o empresariales.
 - Evaluar cómo cada marco sirve a quienes se intenta beneficiar.
 
-#### **Conclusiones Clave:**
+#### **Notas:**
 - Los marcos éticos son herramientas críticas para guiar comportamientos y decisiones responsables.
 - La selección de un marco ético adecuado requiere una cuidadosa consideración de principios comunes y necesidades específicas.
 
@@ -219,7 +214,7 @@ markmap:
 - Toma principios de otros marcos reconocidos como el diseño éticamente alineado del IEEE y los principios de Asilomar.
 - Se distingue por su enfoque en la asignación de responsabilidad y protección de derechos humanos.
 
-#### **Preguntas para Reflexión**:
+#### **Preguntas**:
 - ¿Son las UGIA verdaderamente universales?
 - ¿Cómo se podrían mejorar estas directrices para asegurar su aplicabilidad y efectividad universal?
 
@@ -268,13 +263,9 @@ markmap:
 - ¿Están bien representados todos los aspectos de la IA ética en estos principios?
 - ¿Qué principios podrían añadirse o modificarse para una representación más completa?
 
-Este resumen proporciona una visión concisa de los 10 principios para una IA ética según la UNI Global Union, destacando su enfoque en poner a las personas y al planeta primero, asegurar transparencia, promover una IA sin prejuicios y establecer una gobernanza global efectiva, entre otros.
-
 
 
 ## Principios compartidos por los marcos eticos
-
-
 
 ### Privacidad en Marcos Éticos de la IA
 
@@ -462,7 +453,7 @@ Este resumen proporciona una visión concisa de los 10 principios para una IA é
 - Los futuros marcos éticos pueden inspirarse en la definición de IA de la AMA como un modelo para equilibrar la mejora contra el reemplazo en el uso profesional de la IA.
 - **Importancia de Definir:** La manera en que se define la IA puede influir significativamente en su aceptación y aplicación dentro de las prácticas profesionales.
 
-#### Preguntas para Reflexionar
+#### Preguntas
 1. **¿Por qué la responsabilidad profesional no se discute ampliamente en los marcos éticos actuales?**
 2. **¿Debería la responsabilidad profesional ser un principio más destacado en los marcos éticos de IA?**
 
@@ -490,6 +481,6 @@ Este resumen proporciona una visión concisa de los 10 principios para una IA é
 #### Perspectivas Futuras
 - A medida que la IA avanza hacia la inteligencia general artificial (AGI), surgen preguntas sobre la autonomía de la IA y su posible consideración moral.
 
-#### Reflexión
+#### Reflexiones
 - La discusión sobre la promoción de valores humanos en la IA invita a reflexionar sobre cómo la tecnología puede y debe incorporar principios éticos que reflejen y respeten la dignidad y los derechos humanos, 
 anticipando el impacto futuro en la sociedad y las posibles entidades de IA con autonomía.

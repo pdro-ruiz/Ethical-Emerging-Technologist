@@ -1,9 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 3
----
-
-
 # Common Ethical Theories
 
 ## Common Ethical Theories in Technology
@@ -31,11 +25,6 @@ markmap:
 - **Consequences:** $900 million settlement, impact on consumer trust, and company image.
 - **Lesson:** Considering ethics could mitigate legal and financial issues.
 
-### Conclusions
-
-- This module teaches to actively consider ethics in technology, focusing on how ethical theories 
-  can be applied to avoid negative impacts in the real world. Preparation and understanding of these theories 
-  are crucial for the development of responsible and reliable technological solutions.
 
 
 
@@ -69,7 +58,7 @@ markmap:
 - Multiple disciplines will be addressed later, emphasizing how normative and applied ethics are implemented 
   in various areas to guide ethical decisions in the real world.
 
-#### Key Notes
+#### Notes
 
 - Ethics is fundamental in daily decision-making and social interaction.
 - Normative ethics establishes a framework of what is morally right or wrong.
@@ -102,7 +91,7 @@ markmap:
 - **Organizational Stance:** Organizations must clearly define and communicate their ethics, 
   and be prepared to defend it to stakeholders.
 
-#### Key Notes
+#### Notes
 
 - Moral relativism reflects cultural diversity and temporal evolution of moral norms, highlighting the difficulty of applying universal moral judgment.
 - Moral absolutism provides a solid foundation for ethical judgment but may lack flexibility and cultural sensitivity.
@@ -140,7 +129,7 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 - **Pleasure:** Considered not intrinsic since it can be derived from others' suffering.
 - **Self-Defense:** Even killing in self-defense is considered wrong, reiterating that actions are judged by motives, not consequences.
 
-#### Key Notes
+#### Notes
 
 - Deontology provides an ethical framework that values intention and adherence to universal norms over the outcomes of actions.
 - This approach emphasizes the importance of acting with good will and respecting moral duties, regardless of the consequences that may arise.
@@ -183,10 +172,7 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 - **Main Criticism:** Ethical dilemmas, such as lying to a murderer, where following the universal law seems to go against the good.
 - **Kant's Response:** Even in such cases, lying is morally unacceptable according to the categorical imperative.
 
-#### Conclusion
 
-- The categorical imperative is central in Kant's deontological ethics, promoting adherence to universal moral principles based on reason. 
-  While it's a respected moral framework, it faces criticism for its rigidity in complex ethical situations.
 
 
 ### Universalizability
@@ -218,13 +204,6 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 - **Challenge Scenarios:** How organizational ethics is challenged by AI in weaponry contexts and handling misinformation.
 - **Reflection on the universal applicability of ethical codes in complex situations.**
 
-#### Conclusions
-
-- Universalizability is a key ethical principle that plays a significant role in evaluating actions and decisions, especially in the context of AI.
-- Ethical dilemmas in emerging technologies like AI raise significant questions about how to apply ethical principles universally.
-- It's vital for organizations to contemplate how their ethical codes confront and adapt
-
- to challenges presented by complex situations in technology.
 
 
 
@@ -272,7 +251,7 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 - **Mill's Pleasure Hierarchy:** Values certain pleasures over others, subject to judgment.
 - **Autonomous Vehicle Dilemma:** Example of the complexity in determining which action has greater utility.
 
-#### Conclusions
+#### Notes
 
 - **Contrast with Deontology:** Focus on consequences vs. moral rules.
 - **Importance of Outcome Evaluation:** Morality is based on maximizing well-being and minimizing harm.
@@ -364,9 +343,7 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 
 - Determining moral agency is crucial for assigning responsibility for actions and consequences.
 - Discussions about moral agency in non-human beings and machines reflect technological changes and evolving ethical understandings.
-- Reflecting on these questions is essential for exercising ethical duties and
-
- properly holding agents accountable.
+- Reflecting on these questions is essential for exercising ethical duties and properly holding agents accountable.
 
 
 
@@ -461,6 +438,9 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 - **Moral Cognition:** Study of how the brain processes information to issue moral judgments, including genetic studies and brain mapping.
 - **Importance:** Understanding why people make the moral decisions they do reveals how we construct and apply ideas of morality.
 
+
+
+
 ## Applied Ethics
 
 ### Applied Ethics
@@ -488,7 +468,7 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 - **Research:** Some research projects require ethical approval, especially those involving the public.
 - **Technology/Emerging:** Emerging technologies present unique ethical challenges, requiring a specialized approach in applied ethics.
 
-#### Conclusions
+#### Notes
 - **Implementation and Evaluation:** Applied ethics focuses on the implementation and evaluation of moral judgments in the real world.
 - **Ethical Specialists:** Ethical professionals must carefully consider how their decisions affect practice and tailor their approaches to the specific contexts of their field.
 
@@ -523,11 +503,6 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 - **Social and Environmental Impact:** The responsibility of companies to benefit society vs. potential harms to their own interests.
 - **Ethical Dilemmas in Business:** Balancing ethical responsibilities with financial and reputational goals.
 
-#### Conclusion
-- Companies have broad ethical duties, including transparency, 
-  fairness in treating employees, and social and environmental responsibility. Business ethics encompasses 
-  everything from internal decision-making to external impact on society and the environment, 
-  highlighting the importance of an integrated ethical approach in the business realm.
 
 
 
@@ -551,8 +526,6 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 - Example: Society of Professional Journalism
   - Principles of integrity, pursuit of truth, minimizing harm, acting with independence, accountability, and transparency.
 
-#### Conclusion
-- Professional ethics is a crucial component of applied ethics that influences almost all fields of work, highlighting the importance of acting with integrity and responsibility within each specific profession.
 
 
 
@@ -583,13 +556,6 @@ Intrinsic Good:** The only truly good thing is good will; pleasure is not intrin
 - Seeking ethical solutions in engineering involves minimizing harm and making responsible decisions.
 - There's not always a clear "more ethical" solution, underscoring the complexity of these decisions.
 
-#### Conclusion
-- Engineering ethics is a crucial pillar to ensure that innovations and constructions 
-  not only meet technical and economic objectives but also respect and protect people's lives and the environment. 
-  Engineers, guided by ethical codes, must constantly navigate ethical dile
-
-mmas 
-  to make responsible decisions that reflect society's values.
 
 
 ### Social Ethics

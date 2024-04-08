@@ -72,7 +72,7 @@
 - Consider which ethical framework best suits personal or business needs.
 - Evaluate how each framework serves those it aims to benefit.
 
-#### **Key Conclusions:**
+#### **Notes:**
 - Ethical frameworks are critical tools for guiding responsible behaviors and decisions.
 - The selection of an appropriate ethical framework requires careful consideration of common principles and specific needs.
 
@@ -152,7 +152,7 @@
 - Aligned with the EU Charter of Fundamental Rights.
 - Useful for individuals and companies within the EU.
 
-#### **Key Questions for Reflection**:
+#### **Questions for Reflection**:
 - Do the guidelines cover all necessary aspects for ethical and trustworthy AI?
 - What elements might be missing or need expansion in these guidelines?
 
@@ -267,8 +267,6 @@ Ethical Design of AI**: Focuses on ensuring that AI is ethically designed from i
 - Are all aspects of ethical AI well-represented in these principles?
 - What principles might be added or modified for a more complete representation?
 
-This summary provides a concise overview of the 10 principles for ethical AI according to the UNI Global Union, highlighting its focus on putting people and the planet first, ensuring transparency, promoting bias-free AI, and establishing effective global governance, among others.
-
 
 
 ## Shared Principles across Ethical Frameworks
@@ -291,7 +289,7 @@ This summary provides a concise overview of the 10 principles for ethical AI acc
 - **Research, Awareness, and Regulation**: Promotion of awareness and regulation by nonprofit organizations.
 - **Certifications**: Development of specific certifications and regulations to protect privacy in the realm of AI.
 
-#### Final Reflections
+#### Reflections
 - Privacy is recognized as a crucial principle in the development and application of AI technologies due to its intrinsic link to individual freedom and protection against abuses.
 - It raises the question of whether privacy is treated with the depth and seriousness necessary in all existing ethical frameworks, and if there is room for improvement in how this principle is addressed and protected.
 - The inclusion of privacy as a central component in ethical frameworks for AI reflects its universal importance, not only in terms of data protection but as a fundamental pillar for a just and free society.
@@ -465,7 +463,7 @@ This summary provides a concise overview of the 10 principles for ethical AI acc
 - Future ethical frameworks could draw inspiration from the AMA's definition of AI as a model for balancing enhancement against replacement in professional use of AI.
 - **Importance of Definition**: The way AI is defined can significantly influence its acceptance and application within professional practices.
 
-#### Questions for Reflection
+#### Reflections
 1. **Why is professional responsibility not widely discussed in current ethical frameworks?**
 2. **Should professional responsibility be a more prominent principle in AI ethical frameworks?**
 
@@ -494,5 +492,4 @@ This summary provides a concise overview of the 10 principles for ethical AI acc
 - As AI advances towards general artificial intelligence (AGI), questions arise about AI's autonomy and its potential moral consideration.
 
 #### Reflection
-- The discussion on promoting human values in AI invites reflection on how technology can and should incorporate ethical principles that reflect and respect human dignity and rights,
-anticipating the future impact on society and potential AI entities with autonomy.
+- The discussion on promoting human values in AI invites reflection on how technology can and should incorporate ethical principles that reflect and respect human dignity and rights, anticipating the future impact on society and potential AI entities with autonomy.

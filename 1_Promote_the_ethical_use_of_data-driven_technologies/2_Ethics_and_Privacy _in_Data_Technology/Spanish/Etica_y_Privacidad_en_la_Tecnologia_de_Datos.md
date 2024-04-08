@@ -1,8 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 2
----
-
 # Ética y Privacidad en la Tecnología de Datos
 
 ## Privacidad de los Datos y Protección de la IIP
@@ -102,11 +97,6 @@ markmap:
   - Transformación de entornos domésticos y vehículos en espacios más públicos.
   - Decisión unilateral de propietarios afecta la privacidad de los invitados.
 
-### Conclusión
-
-- La proliferación de dispositivos IoT y sistemas de inteligencia ambiental plantea serios desafíos para la privacidad personal, 
-desde la recopilación y manejo de datos hasta el seguimiento y la vigilancia continuos. Es vital estar conscientes 
-y tomar medidas proactivas para proteger y asegurar nuestros datos en el contexto de esta creciente conectividad.
 
 
 
@@ -149,11 +139,6 @@ y tomar medidas proactivas para proteger y asegurar nuestros datos en el context
 
 - **Reflexión:** Cambios en la percepción del consentimiento y su efecto en la autonomía personal y la autodeterminación en la gestión de datos personales.
 
-### Conclusión
-
-- La protección de la privacidad a través de la autorización individual enfatiza la importancia del consentimiento informado y voluntario, 
-promueve políticas de privacidad claras y accesibles, y sugiere modelos de gestión de datos que priorizan el control del usuario, 
-como los sistemas de opt-in y las herramientas tecnológicas de autorización.
 
 
 
@@ -192,12 +177,6 @@ como los sistemas de opt-in y las herramientas tecnológicas de autorización.
 - **Manejo de Identificadores Indirectos:** 
   - Seudonimización: Permanecen, posibilidad de combinación para identificar.
   - Anonimización: Eliminados o alterados, eliminando el riesgo.
-
-### Conclusión
-
-- La protección de la privacidad a través de la gestión de datos implica utilizar técnicas de desidentificación, 
-seudonimización y anonimización para reducir o eliminar el riesgo de identificación personal. 
-La selección entre estas estrategias depende del nivel de privacidad deseado y del riesgo aceptable de reidentificación.
 
 
 
@@ -253,11 +232,6 @@ La selección entre estas estrategias depende del nivel de privacidad deseado y 
 - **Aplicación:** Inspiró el desarrollo de marcos y normativas como el GDPR.
 - **Críticas y Aceptación:** A pesar de las críticas, ha sido fundamental en guiar la incorporación de la privacidad en tecnologías y operaciones.
 
-### Conclusión
-
-- La Privacidad por Diseño es una filosofía integral que enfatiza la importancia de incorporar la privacidad en todas las etapas del desarrollo de productos y servicios, 
-buscando soluciones innovadoras y efectivas que garanticen la protección de la privacidad sin comprometer la funcionalidad o la seguridad.
-
 
 
 
@@ -301,12 +275,6 @@ buscando soluciones innovadoras y efectivas que garanticen la protección de la 
 - **Análisis Seguro:** Facilita el análisis estadístico preservando la privacidad.
 - **Datos Útiles sin Comprometer Individuos:** Permite compartir datos agregados sin riesgos.
 
-### Conclusión
-
-- La privacidad diferencial es una solución robusta para equilibrar la utilidad de los datos 
-y la protección de la privacidad en análisis estadísticos, superando las limitaciones de métodos 
-como la encriptación y la anonimización mediante el uso estratégico de ruido aleatorio en los datos.
-
 
 
 
@@ -346,12 +314,6 @@ como la encriptación y la anonimización mediante el uso estratégico de ruido 
 - **EULA:** Enfocado en el derecho de uso del software por parte de los usuarios finales.
 - **Términos de Servicio:** Establece las reglas de uso de un servicio, con énfasis en las responsabilidades y restricciones del usuario.
 - **SLA:** Precisa los niveles de servicio esperados, derechos y obligaciones tanto del proveedor como del cliente, con énfasis en la calidad y disponibilidad del servicio.
-
-### Conclusión
-
-- Cada tipo de contrato tecnológico juega un papel crucial en la regulación de la relación entre proveedores de software/servicios y sus usuarios, 
-con cada uno diseñado para cubrir diferentes aspectos de la transacción y uso de tecnologías.
-
 
 
 
@@ -393,11 +355,5 @@ con cada uno diseñado para cubrir diferentes aspectos de la transacción y uso 
 - **Automatización:** Ejecución automática basada en cumplimiento de condiciones codificadas.
 - **Transparencia:** Cada transacción es verificable por todos los participantes en la red.
 - **Seguridad:** La estructura de blockchain y el consenso entre nodos previene alteraciones no autorizadas.
-
-### Conclusión
-
-- Los contratos inteligentes representan una evolución en la forma de establecer y ejecutar acuerdos legales, 
-aprovechando la tecnología de blockchain para ofrecer una solución más segura, transparente y eficiente que los métodos tradicionales. 
-Su naturaleza autoejecutable y la eliminación de intermediarios facilitan transacciones más rápidas y reducen la posibilidad de disputas.
 
 
