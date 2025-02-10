@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://static.wixstatic.com/media/e45989_55c5b861274248cda34c346a8c129483~mv2.png/v1/fill/w_740,h_106,al_c,lg_1,q_85,enc_auto/CertNexus_edited.png" alt="CertNexus Logo">
 </p>
-  
+   
 ---
 
 ## 📑 Tabla de Contenidos
